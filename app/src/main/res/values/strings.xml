@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tp7-Jade</string>
+    <string name="title_activity_geo">Map</string>
+    <string name="title_activity_geoactivity">Geoactivity</string>
+</resources>
